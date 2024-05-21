@@ -31,3 +31,12 @@ Bu proje, görüntü işleme ve nesne tanıma tekniklerini kullanarak trafikteki
 
 1. Python'u [resmi web sitesinden](https://www.python.org/) indirip kurun.
 2. Gerekli kütüphaneleri yüklemek için terminale pip komutunu kullanarak gerekli kütüpaheneleri indirin
+
+
+![.](1.png)
+![.](2.png)
+![.](3.png)
+![.](4.png)
+![.](5.png)
+![.](6.png)
+![.](7.png)
